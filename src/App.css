@@ -1,0 +1,10 @@
+.app-background {
+    /*background: linear-gradient(135deg, #a3c9db,#a1c4fd,#c1d6f8);*/
+   /* background: linear-gradient(135deg, #d0d7ef, #aca7e3);*/
+    background: linear-gradient(135deg, #eeeff1, #93999b);
+
+
+
+
+    min-height: 100vh;
+  }
